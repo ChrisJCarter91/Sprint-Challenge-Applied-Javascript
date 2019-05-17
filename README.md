@@ -32,13 +32,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+The DOM is an object representation of the HTML element of a webpage. When a web page is loaded, it looks at the HTML and builds a model for how to build the page and how it should look and act using JS. This is a JS object containing the elements in order on the page and the object is referred to as the DOM which is a data structure known as a Tree
+
 2. What is an event?
+
+Events are then "things" happen to HTML elements. Click, mouseover, etc.
 
 3. What is an event listener?
 
+an object that can handle an specified event
+
 4. Why would we convert a NodeList into an Array?
 
+We would do so to give us more options to use. Arrays have more methods that we can use. 
+
 5. What is a component?
+
+Components are building blocks that can be HTML, CSS, or JS; brought together for reuse in a website or application. An accordion would be a component. Components are reusable pieces of code that can be used to build elements that share functionality and styling. 
 
 ### Git Set up
 
